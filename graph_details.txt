@@ -1,0 +1,26 @@
+# graph1 judges tenure vs state
+rapidtables.com/tools
+Maharashtra Andhra_Pradesh Karnataka Kerala Himachal_Pradesh Assam Jharkhand Bihar Rajasthan Tamil_Nadu Orissa Jammu_and_Kashmir Uttar_Pradesh Haryana Uttarakhand West_Bengal Gujarat Chattisgarh Mizoram Tripura Meghalaya Punjab Madhya_Pradesh Sikkim Manipur Delhi Chandigarh Telangana Goa
+425 544 380 811 648 386 584 251 679 584 728 461 394 398 654 339 462 460 677 587 760 439 535 448 394 533 315 533 612
+
+#graph 2 average fermale representation over states in years
+
+Maharashtra Andhra_Pradesh Karnataka Kerala Himachal_Pradesh Assam Jharkhand Bihar Rajasthan Tamil_Nadu Orissa Jammu_and_Kashmir Uttar_Pradesh Haryana Uttarakhand West_Bengal Gujarat Chattisgarh Mizoram Tripura Meghalaya Punjab Madhya_Pradesh Sikkim Manipur Delhi Chandigarh Telangana
+24.24 21.33 7.36 39.78 14.63 27.85 40.74 10.81 33.33 7.69 34.78 17.39 31.82 42.86 82.35 21.43 0 0 62.5 0 0 0 100 0 100 100 0 0 
+22.84 22.16 9.15 39.36 14.46 27.85 41.54 49.06 10.81 15.15 33.33 7.69 39.13 31.82 77.78 21.43 0 0 55.56 0 0 33.33 0 100 100 100 0 0
+23.376623       22.159091       8.860759       39.361702      13.953488       27.848101       40.909091     47.457627      10.526316      15.151515      30.000000       7.692308      37.500000      31.818182      77.777778      20.000000       0.000000       0.000000      55.555556       0.000000       0.000000      33.333333       0.000000     100.000000     100.000000     100.000000       0.000000 0
+    22.784810     21.910112      9.259259     38.947368     13.953488     27.848101     39.130435     47.457627     10.526316     33.333333     15.151515     37.037037      7.692308     31.818182     77.777778     20.000000      0.000000      0.000000     55.555556      0.000000      0.000000     33.333333    100.000000      0.000000    100.000000    100.000000      0.000000 0
+        23.546512     21.787709      8.720930     38.947368     13.953488     27.160494     47.222222     38.028169     10.526316     33.333333     15.151515      7.407407     37.037037     34.782609     77.777778     20.000000      0.000000      0.000000     55.555556      0.000000     62.500000      0.000000      0.000000     33.333333    100.000000    100.000000    100.000000      0.000000
+            23.013699      9.239130     21.787709     38.541667     13.953488     27.160494     46.052632     38.028169     36.538462     25.000000    10.526316     15.151515     10.344828     33.333333     52.380952     77.777778     18.750000     53.846154      0.000000      0.000000     55.555556      0.000000      0.000000     33.333333    100.000000    100.000000   100.000000      0.000000
+#graph3 average case decision time vs state
+
+Maharashtra  Andhra_Pradesh  Karnataka  Kerala  Himachal_Pradesh  Assam  Jharkhand  Bihar  Rajasthan  Tamil_Nadu  Orissa  Jammu_and_Kashmir  Uttar_Pradesh  Haryana  Uttarakhand  West_Bengal  Gujarat   Chhattisgarh  Mizoram  Tripura  Meghalaya  Punjab  Madhya_Pradesh   Sikkim  Manipur  Delhi  Chandigarh  Telangana  Goa  Diu_and_Daman  DNH_at_Silvasa  Ladakh 
+ 760   888   564   878  1021   891  1410  1564  1328  1098  1592   987  1245   841   862  1106   918  1115             600   820   692   896   792   701  1195   713   795   944   389   739   910          2526 
+  704   828   475   710   736   749   997  1237   958   936  1206   718   921   701   694   768   733   917   212   671   644   641   726   400   702   652   583   819   348   411   853             2270 
+ 572   708   373   590   606   522   764   825   633   734   895   698   702   570   425   652   484   905   226   580   445   520   560   114   452   571   475   691   303   295   534  2001 
+ 479   540   299   455   464   471   495   528   522   526   703   587   510   419   328   581   338   396   481   524   223   408   424   103   154   510   372   580   259   288   598             1457 
+ 375   451         250   376   311   380   358   376   423   412        457   350   356   330   338   456   294   292   436   427   168   342   346   114   140   465   342   498   280   214   458  1115 
+264  346  185  285  235  288  254  254  308  250  274  354  239  233  261  330  195  200  455  320  126  261  221   97  114  313  314  352  213  166  401           681 
+166   210   117   218   134   156   135   169   114   147   195   201   126   175   169   206   148   116   183   244    76   149   131    82    79   195   230   222   120   119   314   318  
+
+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
